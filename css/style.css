@@ -85,7 +85,7 @@ section:last-child div h1 {
 }
 
 section:last-child div p {
-    height: 81%;
+    height: 75%;
     margin-bottom: 20px;
     font-style: italic;
     overflow: scroll;
